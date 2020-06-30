@@ -1,0 +1,13 @@
+name: disk-clean-helper
+version: 0.1.0
+
+authors:
+  - Marc Chantreux <eiro(at)phear.org>
+
+targets:
+  disk-clean-helper:
+    main: src/disk-clean-helper.cr
+
+crystal: 0.35.1
+
+license: MIT
